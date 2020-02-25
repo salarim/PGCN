@@ -89,3 +89,9 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+# Feature Folder
+features
+
+# pychache folders
+__pycache__
