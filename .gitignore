@@ -95,3 +95,6 @@ features
 
 # pychache folders
 __pycache__
+
+#snapshot folder
+snapshots
