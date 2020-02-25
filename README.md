@@ -92,7 +92,7 @@ test_ft_path: $PATH_OF_TESTING_FEATURES
 Then, you can use the following commands to train PGCN
 
 ```bash
-python pgcn_train.py thumos14 --snapshot_pre $PATH_TO_SAVE_MODEL
+python pgcn_train.py thumos14 --snapshot_pre $PATH_TO_SAVE_MODEL(snapshots)
 ```
 
 After training, there will be a checkpoint file whose name contains the information about dataset and the number of epoch.
