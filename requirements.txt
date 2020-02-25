@@ -5,3 +5,4 @@ terminaltables
 pandas
 scipy
 ruamel.yaml
+tensorboardX
